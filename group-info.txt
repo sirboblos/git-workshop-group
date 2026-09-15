@@ -1,4 +1,4 @@
 Group_name: Edgy_name
 Programming_language: C#
-Project: TBD
+Project: rideshare app
 Number_of_students: 6 
